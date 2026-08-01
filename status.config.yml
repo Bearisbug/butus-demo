@@ -1,19 +1,14 @@
-# Status page configuration — the only file you need to edit.
-# Docs: see README. Minimal monitor = name + target; everything else has defaults.
 site:
-  title: Example Status
-  description: Live status for our services.
-
-defaults:
-  timeoutMs: 10000 # probe timeout per attempt
-  degradedThresholdMs: 3000 # slower than this (but responding) = degraded
+  title: Butus Demo
+  description: Live demo instance of Butus.
+  lang: en
 
 monitors:
-  - name: Website
-    group: Main
+  - name: Example Website
+    group: Demo
     target: https://example.com
-  - name: Website (content check)
-    group: Main
+  - name: Example (content check)
+    group: Demo
     type: keyword
     target: https://example.com
     keyword: Example Domain
