@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-24T17:00:15.153Z",
-  "runId": "32754065159",
+  "generatedAt": "2026-08-24T17:38:06.824Z",
+  "runId": "32757727433",
   "overall": "operational",
   "monitors": [
     {
@@ -11,7 +11,7 @@
       "status": "operational",
       "ms": 30,
       "reason": null,
-      "lastCheckedAt": "2026-08-24T17:00:15.153Z",
+      "lastCheckedAt": "2026-08-24T17:38:06.824Z",
       "since": "2026-08-01T09:00:48.421Z",
       "openIncident": null
     },
@@ -20,9 +20,9 @@
       "name": "Example (content check)",
       "group": "Demo",
       "status": "operational",
-      "ms": 35,
+      "ms": 22,
       "reason": null,
-      "lastCheckedAt": "2026-08-24T17:00:15.153Z",
+      "lastCheckedAt": "2026-08-24T17:38:06.824Z",
       "since": "2026-08-01T09:00:48.421Z",
       "openIncident": null
     }
