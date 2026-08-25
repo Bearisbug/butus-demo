@@ -244,13 +244,13 @@
     },
     {
       "date": "2026-08-25",
-      "total": 31,
-      "up": 31,
+      "total": 32,
+      "up": 32,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 47,
-      "max_ms": 126
+      "avg_ms": 50,
+      "max_ms": 144
     }
   ]
 }
