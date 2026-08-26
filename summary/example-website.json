@@ -254,12 +254,12 @@
     },
     {
       "date": "2026-08-26",
-      "total": 21,
-      "up": 21,
+      "total": 22,
+      "up": 22,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 48,
+      "avg_ms": 49,
       "max_ms": 159
     }
   ]
