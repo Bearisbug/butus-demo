@@ -554,12 +554,12 @@
     },
     {
       "date": "2026-09-25",
-      "total": 2,
-      "up": 2,
+      "total": 3,
+      "up": 3,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 48,
+      "avg_ms": 46,
       "max_ms": 58
     }
   ]
