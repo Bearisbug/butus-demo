@@ -624,12 +624,12 @@
     },
     {
       "date": "2026-10-02",
-      "total": 3,
-      "up": 3,
+      "total": 4,
+      "up": 4,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 48,
+      "avg_ms": 49,
       "max_ms": 70
     }
   ]
