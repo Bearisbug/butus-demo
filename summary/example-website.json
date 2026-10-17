@@ -774,12 +774,12 @@
     },
     {
       "date": "2026-10-17",
-      "total": 1,
-      "up": 1,
+      "total": 2,
+      "up": 2,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 46,
+      "avg_ms": 43,
       "max_ms": 46
     }
   ]
