@@ -811,6 +811,16 @@
       "down_minutes": 0,
       "avg_ms": 68,
       "max_ms": 190
+    },
+    {
+      "date": "2026-10-21",
+      "total": 1,
+      "up": 1,
+      "degraded": 0,
+      "down_count": 0,
+      "down_minutes": 0,
+      "avg_ms": 27,
+      "max_ms": 27
     }
   ]
 }
