@@ -1104,13 +1104,13 @@
     },
     {
       "date": "2026-11-19",
-      "total": 3,
-      "up": 3,
+      "total": 4,
+      "up": 4,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 74,
-      "max_ms": 107
+      "avg_ms": 90,
+      "max_ms": 140
     }
   ]
 }
